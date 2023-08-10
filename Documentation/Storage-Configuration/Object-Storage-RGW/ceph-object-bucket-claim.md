@@ -55,7 +55,7 @@ metadata:
   namespace: default [1]
   resourceVersion: "559491"
 spec:
-  ObjectBucketName: obc-default-ceph-bucket [2]
+  objectBucketName: obc-default-ceph-bucket [2]
   additionalConfig: null
   bucketName: photo-booth-c1178d61-1517-431f-8408-ec4c9fa50bee [3]
   storageClassName: rook-ceph-bucket [4]
